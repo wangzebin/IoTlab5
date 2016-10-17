@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="button_send">Send</string>
+    <string name="button_record">Record</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>
